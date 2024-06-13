@@ -1,0 +1,26 @@
+.item-rwa ul {
+    text-align: center;
+}
+
+
+.item-rwa ul li {
+    display: inline-block;
+    width: 100px;
+    box-shadow: 0 2px 5px rgb(0 0 0 / 52%);
+    margin: 10px;
+    padding: 10px;
+    background: #fff;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+
+.item-rwa ul li {
+    border-radius: 10px;
+    text-align: center;
+    margin-right: 35px;
+}
+
+p{
+    text-align: justify;
+}
